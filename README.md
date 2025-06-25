@@ -34,7 +34,7 @@ Within the Group 14 design team, I fulfilled the combined specialist role of Und
 *   Focus on compliance with EASA CS-25 standards.
 
 ## Repository Contents:
-*   `Group14_Hydrogen_Aircraft_CDR.pdf`: The full Critical Design Review document for the Group 14 Hydrogen-Electric Regional Aircraft. *(Please use your actual file name)*
+*   `Hydrogen_Aircraft_CDR.pdf`: The full Critical Design Review document for the Group 14 Hydrogen-Electric Regional Aircraft. 
 
 ## Skills & Technologies Demonstrated (My Contribution):
 *   **Aircraft Systems Design:** Undercarriage systems, EHA concepts.
